@@ -32,10 +32,11 @@ cd RULERHUNTER
 
 python2 rulerhunter.py
 
+# USERNAME & PASSWORDS
 ###USERNAME : THEHUNTERBOY
 ###PASSWORD : ALAMINKHAN
 
 
 ### Contact With HUNTERBOY ALAMIN
 
-[![](https://img.shields.io/badge/Facebook-ACCOUNT-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/alaminkhan.60)
+[![](https://img.shields.io/badge/Facebook-ACCOUNT-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/114375966973147)
