@@ -5,7 +5,7 @@ HUNTERBOY ALAMIN
 
 ## Contents
 
-## install Command
+## Commands
 
 [![](https://img.shields.io/badge/DevillHunter?logo=Devill&logoColor=Brightred&labelColor=white)]
 
@@ -32,6 +32,7 @@ cd RULERHUNTER
 
 python2 rulerhunter.py
 
+````
 # USERNAME & PASSWORDS
 ###USERNAME : THEHUNTERBOY
 ###PASSWORD : ALAMINKHAN
@@ -39,4 +40,3 @@ python2 rulerhunter.py
 
 ### Contact With HUNTERBOY ALAMIN
 
-![](https://img.shields.io/badge/Facebook-ACCOUNT-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=114375966973147)
